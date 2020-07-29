@@ -6,7 +6,7 @@
 
 * <a href="https://github.com/anchaal1104" target="_blank">Aanchal Dash</a>
 
-* <a href="https://i.pinimg.com/236x/84/9b/63/849b636ec25a4f8badbf66acfff2d0c7--photoshop-pics-mr-bean.jpg" target="_blank">Biswajeet Mohanty</a>
+* <a href="https://github.com/Biswajeet1998" target="_blank">Biswajeet Mohanty</a>
 
 * <a href="https://i.pinimg.com/236x/84/9b/63/849b636ec25a4f8badbf66acfff2d0c7--photoshop-pics-mr-bean.jpg" target="_blank">Debashis Mishra</a>
 
