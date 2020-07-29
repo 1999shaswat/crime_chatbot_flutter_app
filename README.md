@@ -6,11 +6,11 @@
 
 * <a href="https://github.com/anchaal1104" target="_blank">Aanchal Dash</a>
 
-* <a href="https://www.soa.ac.in/iter" target="_blank">Biswajeet Mohanty</a>
+* <a href="https://i.pinimg.com/236x/84/9b/63/849b636ec25a4f8badbf66acfff2d0c7--photoshop-pics-mr-bean.jpg" target="_blank">Biswajeet Mohanty</a>
 
-* <a href="https://www.soa.ac.in/iter" target="_blank">Debashis Mishra</a>
+* <a href="https://i.pinimg.com/236x/84/9b/63/849b636ec25a4f8badbf66acfff2d0c7--photoshop-pics-mr-bean.jpg" target="_blank">Debashis Mishra</a>
 
-* <a href="https://www.soa.ac.in/iter" target="_blank">Ashutosh Anand</a>
+* <a href="https://github.com/AshutoshAnand0001" target="_blank">Ashutosh Anand</a>
 
 
 ![](./presentation/1.png)
